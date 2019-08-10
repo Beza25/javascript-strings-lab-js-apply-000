@@ -8,5 +8,5 @@ var topic = "space.";
 
 var conversation =  'Let\'s talk about ${topic}.';
 
-consule.log(conversation);
+consoule.log(conversation);
 
